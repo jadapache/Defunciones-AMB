@@ -1,3 +1,3 @@
-# Defunciones-AMB
+Cargo Fijo y Consumo de Alcantarillado en Bucaramanga
 
-El presente trabajo pretende hallar una relación del total de registro de las defunciones ocurridas en el municipio de Bucaramanga por muerte natural, violenta o en estudio y el estado civil del occiso. Para ello se trabajó con el dataset públicado por la Secretaria de Salud de Bucaramang en el portal gubernamental de Datos Abiertos https://www.datos.gov.co/Salud-y-Protecci-n-Social/DEFUNCIONES-MUNICIPIO-DE-BUCARAMANGA/39pv-4vq3 como entregable correspondiente de la asignatura optativa: Descubrimiento de Conocimiento en Grandes Volúmenes de Datos.
+El presente trabajo hace uso del registro de consumo y cargo fijos del Área metropolitana de Bucaramanga dispuestos en un dataset públicado en el portal gubernamental de Datos Abiertos https://www.datos.gov.co/Agricultura-y-Desarrollo-Rural/RELACION-DEL-GRUPO-DE-CULTIVO-CON-EL-CICLO-DE-PROD/ezbz-3vbz como entregable correspondiente de la asignatura optativa: Descubrimiento de Conocimiento en Grandes Volúmenes de Datos.
